@@ -14,7 +14,7 @@ point details on side panel, including pins info
 - [ ] partial selection, copy and paste to other plans
 - [ ] plan save button, saved list
 - [ ] multi ownership
-- [ ] more ideas !
+- [x] more ideas !
 
 # ref
 - MAP APIS - https://relevant.software/blog/choosing-a-map-amapbox-google-maps-openstreetmap/
