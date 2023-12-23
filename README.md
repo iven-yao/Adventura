@@ -18,6 +18,6 @@ point details on side panel, including pins info
 
 # ref
 - MAP APIS - https://relevant.software/blog/choosing-a-map-amapbox-google-maps-openstreetmap/
+- Node.js - https://nodejs.org/en
 - tailwindCSS - https://tailwindcss.com/
 - React - https://react.dev/
-- Angular - https://angular.io/
