@@ -21,3 +21,5 @@ point details on side panel, including pins info
 - Next.js - https://nextjs.org/learn
 - tailwindCSS - https://tailwindcss.com/
 - React - https://react.dev/
+- MockAPI - https://mockapi.io/
+
