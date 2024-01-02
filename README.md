@@ -14,6 +14,8 @@ point details on side panel, including pins info
 - [ ] partial selection, copy and paste to other plans
 - [ ] plan save button, saved list
 - [ ] multi ownership
+- [ ] gpt integrated, activity/location ideas
+- [ ] yelp/tabelog/food recommendations
 - [x] more ideas !
 
 # ref
