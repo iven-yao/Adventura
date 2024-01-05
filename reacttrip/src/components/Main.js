@@ -7,6 +7,7 @@ import NavBar from "./common/navbar";
 
 export default function Main() {
     return (
+        <div className="bg-black">
         <BrowserRouter>
             <NavBar />
             <Routes>
@@ -14,5 +15,6 @@ export default function Main() {
                 <Route path="/trip" element={<Trip/>}/>
             </Routes>
         </BrowserRouter>
+        </div>
     );
 }
