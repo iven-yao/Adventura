@@ -1,6 +1,12 @@
 # NexTrip
 shareable, easy-to-modify travel planner based on map and path detail
 
+# How to start
+- clone this project
+- `npm i`
+- get your own google map api key, and put in .env.local
+- `npm run dev`
+
 # basic layout
 map based, pin points and route showed on map<br/>
 point details on side panel, including pins info
