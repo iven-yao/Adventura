@@ -22,7 +22,7 @@ export default function Map() {
     };
 
     return (
-        <div className='flex h-full flex-col px-3 py-4 md:px-2'>
+        <div className='flex h-screen flex-col px-3 py-4 md:px-2'>
             <div className="w-full h-full bg-cyan-600 rounded-md p-2">
                 <GoogleMapReact
                     bootstrapURLKeys={{ key: apikey }}
