@@ -8,7 +8,7 @@ export default function Page() {
             <div className="flex-grow md:overflow-y-auto">
                 <Map/>
             </div>
-            <div className="w-full flex-none md:w-96">
+            <div className="w-full flex-col flex md:w-96">
                 <SearchBar/>
                 <Plans/>
             </div>
