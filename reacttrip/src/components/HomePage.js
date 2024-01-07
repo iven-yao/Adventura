@@ -20,6 +20,9 @@ export default function HomePage() {
                 <a href="/trip" className="App-link">
                     Trip
                 </a>
+                <a href="/map" className="App-link">
+                    TestMap
+                </a>
             </header>
         </div>
     );
